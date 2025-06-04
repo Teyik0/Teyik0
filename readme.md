@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://teyik0.dev/](https://teyik0.dev)
+- 👨‍💻 Check my [portfolio](https://teyik0.dev)
 
 - 💬 Ask me about **react, nextjs and typescript**
 
