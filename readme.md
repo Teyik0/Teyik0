@@ -6,7 +6,7 @@
 I build fast, type-safe web apps — and the tools behind them.
 
 [![Portfolio](https://img.shields.io/badge/teyik0.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://teyik0.dev)
-[![Email](https://img.shields.io/badge/theosamarasinghe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theosamarasinghe@gmail.com)
+[![Email](https://img.shields.io/badge/teyik0.fr%40icloud.com-3693F3?style=flat-square&logo=icloud&logoColor=white)](mailto:teyik0.fr@icloud.com)
 
 </div>
 
