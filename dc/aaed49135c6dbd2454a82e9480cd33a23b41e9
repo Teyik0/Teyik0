@@ -1,0 +1,19 @@
+.github/workflows/snake.yml
+  s_723651c8ada926::t_d987dbabcb5bcf 17-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dcaaed49135c6dbd2454a82e9480cd33a23b41e9",
+  "prompts": {},
+  "sessions": {
+    "s_723651c8ada926": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a164d8-75a8-77e2-b117-334f5623173f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "teyik0 <teyik0.fr@icloud.com>"
+    }
+  }
+}
