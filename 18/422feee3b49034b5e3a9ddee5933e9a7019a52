@@ -1,0 +1,19 @@
+readme.md
+  s_723651c8ada926::t_50410553935bb6 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "18422feee3b49034b5e3a9ddee5933e9a7019a52",
+  "prompts": {},
+  "sessions": {
+    "s_723651c8ada926": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a164d8-75a8-77e2-b117-334f5623173f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "teyik0 <teyik0.fr@icloud.com>"
+    }
+  }
+}
