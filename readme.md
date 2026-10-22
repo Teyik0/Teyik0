@@ -15,6 +15,7 @@ I build fast, type-safe web apps — and the tools behind them.
 ### 🧰 Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=FBF0DF)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -35,6 +36,13 @@ I build fast, type-safe web apps — and the tools behind them.
 - 💬 Ask me about **TypeScript, Bun, React and Next.js**
 - 🤖 I lean on AI tools heavily to ship faster and stay ahead of the curve
 - 🍛 Fun fact: **I love curry**
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-six-psi-66.vercel.app/api?username=Teyik0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Teyik0's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-six-psi-66.vercel.app/api/top-langs/?username=Teyik0&theme=dark&hide_border=false&layout=compact" alt="Teyik0's Most Used Languages" />
+</p>
 
 <br/>
 
