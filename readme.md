@@ -29,9 +29,9 @@ I build fast, type-safe web apps — and the tools behind them.
 
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
-| 🎐 **[Furin](https://github.com/Teyik0/furin)** | React meta-framework on Elysia & Bun — file-based routing, SSR / SSG / ISR, full TypeScript inference | Bun · Elysia · React |
-| 🧈 **[Tofu](https://github.com/Teyik0/tofu)** | Desktop torrent client with real transfer stats and built-in anime tracking | Bun · React · Furin · Electrobun |
-| 🐍 **[Ultrapyup](https://github.com/Teyik0/ultrapyup)** | Zero-config, AI-ready Python toolkit to build and ship code faster | Python · uv |
+| 🎐&nbsp;**[Furin](https://github.com/Teyik0/furin)** | React meta-framework on Elysia & Bun — file-based routing, SSR / SSG / ISR, full TypeScript inference | Bun · Elysia · React |
+| 🧈&nbsp;**[Tofu](https://github.com/Teyik0/tofu)** | Desktop torrent client with real transfer stats and built-in anime tracking | Bun · React · Furin · Electrobun |
+| 🐍&nbsp;**[Ultrapyup](https://github.com/Teyik0/ultrapyup)** | Zero-config, AI-ready Python toolkit to build and ship code faster | Python · uv |
 
 ### ⚡ About me
 
@@ -42,8 +42,8 @@ I build fast, type-safe web apps — and the tools behind them.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-six-psi-66.vercel.app/api?username=Teyik0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Teyik0's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-six-psi-66.vercel.app/api/top-langs/?username=Teyik0&theme=dark&hide_border=false&layout=compact" alt="Teyik0's Most Used Languages" />
+  <img height="165" src="https://github-readme-stats-six-psi-66.vercel.app/api?username=Teyik0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Teyik0's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-six-psi-66.vercel.app/api/top-langs/?username=Teyik0&theme=dark&hide_border=false&layout=compact" alt="Teyik0's Most Used Languages" />
 </p>
 
 <br/>
