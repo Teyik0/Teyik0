@@ -14,7 +14,34 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+        with:
+          repository: Platane/snk
+          ref: d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+          path: .snk
+          persist-credentials: false
+
+      - name: Use the current calendar year
+        # snk has no date-range input; patch the pinned action's GraphQL query.
+        run: |
+          python3 - <<'PY'
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          year = datetime.now(timezone.utc).year
+          bundle = Path('.snk/svg-only/dist/index.js')
+          source = bundle.read_text()
+          query = 'contributionsCollection {'
+          assert source.count(query) == 1, 'Upstream contribution query changed'
+          replacement = (
+              f'contributionsCollection(from: "{year}-01-01T00:00:00Z", '
+              f'to: "{year}-12-31T23:59:59Z") {{'
+          )
+          bundle.write_text(source.replace(query, replacement))
+          print(f'Generating the contribution calendar for {year}')
+          PY
+
+      - uses: ./.snk/svg-only
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
