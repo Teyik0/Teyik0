@@ -5,7 +5,7 @@
 **Performance-driven fullstack developer from France 🇫🇷**<br/>
 I build fast, type-safe web apps — and the tools behind them.
 
-[![Portfolio](https://img.shields.io/badge/teyik0.github.io/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](teyik0.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/teyik0.github.io/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://teyik0.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/teyik0.fr%40icloud.com-3693F3?style=flat-square&logo=icloud&logoColor=white)](mailto:teyik0.fr@icloud.com)
 
 </div>
